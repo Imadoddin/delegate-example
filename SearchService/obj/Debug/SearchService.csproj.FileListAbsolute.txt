@@ -1,0 +1,7 @@
+C:\Imad\MyApps\SearchService\SearchService\bin\Debug\SearchService.exe.config
+C:\Imad\MyApps\SearchService\SearchService\bin\Debug\SearchService.exe
+C:\Imad\MyApps\SearchService\SearchService\bin\Debug\SearchService.pdb
+C:\Imad\MyApps\SearchService\SearchService\obj\Debug\SearchService.csprojAssemblyReference.cache
+C:\Imad\MyApps\SearchService\SearchService\obj\Debug\SearchService.csproj.CoreCompileInputs.cache
+C:\Imad\MyApps\SearchService\SearchService\obj\Debug\SearchService.exe
+C:\Imad\MyApps\SearchService\SearchService\obj\Debug\SearchService.pdb
